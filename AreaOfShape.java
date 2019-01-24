@@ -1,8 +1,5 @@
 public class AreaOfShape{
 
-	public static float circle(float radius){
-
-	}
 	public static void areaOfRectangle(float length, float width){
 		System.out.println("Area of Rectangle is:" + (length * width));
 	}
